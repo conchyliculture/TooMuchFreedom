@@ -29,6 +29,7 @@ This is what paying at a restaurant's process should be:
   0) Machine auths and prints a paper to confirm transaction
 
 Total time taken: 1 minute
+
 Cons: 
 
   * You have to remember your PIN
@@ -42,6 +43,7 @@ This is what it's like in crazy places:
   0) You are now tasked with calculating a Tip, as well as the global sum, write everything down, and sign
 
 Total time taken: 10 minutes.
+
 Cons:
 
   * Takes forever, while someone else is in possession of your card
