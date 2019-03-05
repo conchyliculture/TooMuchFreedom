@@ -68,7 +68,17 @@ Cons:
 
 ### Bathroom
 
-#### Bathroom stall doors
+#### Showers
+
+What's wrong with tubes? Please stop attaching the showerhead to the wall, especially right in front of my face so that I have to bow and do gymnastics to wash my hair. Here I am in the morning doing the little dance trying to move around so that some droplets actually reach my butt and feet trying to rince the soap off.
+
+You sound so smug with your "off courses you turn the shower on first and then step in, lol noob". You ever heard about just controlling where the water goes? Anoter case of "We have a solution for this problem" where nobody ever realize they should fix the problem in the first place.
+
+Want to rinse the shower after your finished, to remove disgraceful hair in your host's shower? tough luck trying to use your hands as water buckets.
+
+Can I please control temperature AND flow? You have that for your hands in the sink, why not your shower?
+
+#### Toilets stall doors
 
 Why do you need 12cm gaps all around the door?
 
