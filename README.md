@@ -4,6 +4,11 @@ Random grievances about that country with too much freedom.
 
 ## Basic day to day life issues
 
+### Ice cubes
+
+I don't want to numb my face everytime I drink something. 'Refreshing' doesn't necessarily mean 'Zero degrees'.
+No ice please.
+
 ### Money
 
 #### Currency
