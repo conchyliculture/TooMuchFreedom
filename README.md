@@ -9,6 +9,17 @@ Random grievances about that country with too much freedom.
 I don't want to numb my face everytime I drink something. 'Refreshing' doesn't necessarily mean 'Zero degrees'.
 No ice please.
 
+### Units
+
+SI.
+
+Anything else is absolute madness.
+
+#### Cooking
+
+Cups? Seriously? Measuring non-liquid stuff by volume? are you insane?
+
+
 ### Money
 
 #### Currency
@@ -70,6 +81,7 @@ While having a gap at the bottom of the door could make cleaning easier, there i
 #### Someone else will clean your shit
 
 Why so many hotels/offices/restaurants don't have the brush that helps you clean after yourself when you make a mess?
+
 
 ## Systemic issues
 
