@@ -20,6 +20,16 @@ Anything else is absolute madness.
 Cups? Seriously? Measuring non-liquid stuff by volume? are you insane?
 
 
+#### Time and Date
+
+"This tragic event happened on 3/2/11 at 12:00pm" doesn't mean anything:
+
+  * 12 hours "post meridiem" means midnight, not noon.
+  * MM/DD/YY is absolute madness. 
+
+ISO 8601 uber alles!
+
+
 ### Money
 
 #### Currency
