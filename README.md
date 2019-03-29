@@ -37,7 +37,7 @@ Cups? Seriously? Measuring non-liquid stuff by volume? are you insane?
 
 ISO 8601 uber alles!
 
-Because there are only 10 months, and because |π - 22/7| < |π - 3.14|, "Pi day" is actually the 22nd of July.
+Because there are only 12 (and not 14) months, and because |π - 22/7| < |π - 3.14|, "Pi day" is actually the 22nd of July.
 
 ### Money
 
