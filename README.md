@@ -2,6 +2,14 @@
 
 Random grievances about that country with too much freedom.
 
+Please don't take anything here too seriously!
+
+I get upset when I talk about any of these issues and am met with a combinaistion of:
+
+ * "There is a work around for this" Just fix the problem!
+ * "It's the same everywhere else and it's okay"  No it's not!
+
+
 ## Basic day to day life issues
 
 ### Ice cubes
@@ -103,11 +111,23 @@ While having a gap at the bottom of the door could make cleaning easier, there i
 Why so many hotels/offices/restaurants don't have the brush that helps you clean after yourself when you make a mess?
 
 
+### Light
+
+Light bulb 'turn knobs' thingies are not a valid way to turn a light on/off. These things feel very flimsy and way too close to the high voltage powered heat generating device to make me comfortable.
+I shouldn't have to fish for it while blinded by the bulb to turn the whole thing off before going to bed.
+
 ## Systemic issues
+
+### Quick buck is the law
+
+Most things feel like they were done this way to make as much money as possible  NOW whatever the cost.
+
 
 ### Immigration
 
 We get it, you all hate foreigners. Thank you for making visiting an super humiliating process.
+
+Not even setting actual foot in the country, got a tight connection to catch another flight? Tough luck, still got to pickup your luggage and do the whole security dance again.
 
 ### Alchohol ban
 
@@ -141,4 +161,3 @@ Why should this be only applied to waiters? Why not all service customer facing 
 Just pay people well, and they'll be happier and do a better job.
 
 A tip should be an extraordinary token of appreciation for an extraordinary good job. Like it is in so many countries.
-
