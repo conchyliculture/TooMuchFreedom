@@ -151,9 +151,12 @@ Enforce the ban of unappropriate behavior instead, like being an annoying drunka
 
 Seriously get your shit together.
 
-[https://www.theonion.com/no-way-to-prevent-this-says-only-nation-where-this-r-1823016659](https://www.theonion.com/no-way-to-prevent-this-says-only-nation-where-this-r-1823016659)
+It's terrifying to know I may get shot because I was pulled over and started foraging for my papers in the glove box.
 
-It's terrifying to know I may get shot because I was pulled over, and started foraging for my papers in the glove box.
+"It's very unlikely any of this will happen to you". Sure. Yet it does happen, unlike every other sane place in the world, where it doesn't:
+
+ * [Police shoots at unarmed person and hits only bypassers](https://www.villagevoice.com/2016/08/10/after-the-nypd-opened-fire-on-an-unarmed-mentally-ill-man-in-times-square-who-gets-the-blame/)
+ * [Police shoots & kills unarmed person in hotel because he didn't want to lose his pants after being ordered to crawl on the flor](https://en.wikipedia.org/wiki/Shooting_of_Daniel_Shaver)
 
 ### Tipping
 
