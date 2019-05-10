@@ -117,6 +117,15 @@ Why so many hotels/offices/restaurants don't have the brush that helps you clean
 Light bulb 'turn knobs' thingies are not a valid way to turn a light on/off. These things feel very flimsy and way too close to the high voltage powered heat generating device to make me comfortable.
 I shouldn't have to fish for it while blinded by the bulb to turn the whole thing off before going to bed.
 
+### TV
+
+Television is the worst. US TV is the worst of television. It feels like 50% of it is *ads*.
+
+It's mind blowing that you get ads for:
+* Prescription only medication
+* Doctors
+* Lawyers
+
 ## Systemic issues
 
 ### Quick buck is the law
