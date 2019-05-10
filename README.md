@@ -33,7 +33,7 @@ Cups? Seriously? Measuring non-liquid stuff by volume? are you insane?
 "This tragic event happened on 3/2/11 at 12:00pm" doesn't mean anything:
 
   * 12 hours "post meridiem" means midnight, not noon.
-  * MM/DD/YY is absolute madness. 
+  * MM/DD/YY is absolute madness.
 
 ISO 8601 uber alles!
 
@@ -65,7 +65,7 @@ This is what paying at a restaurant's process should be:
 
 Total time taken: 1 minute
 
-Cons: 
+Cons:
 
   * You have to remember your PIN
 
@@ -101,7 +101,7 @@ Can I please control temperature AND flow? You have that for your hands in the s
 
 Why do you need 12cm gaps all around the door?
 
-This is making enough people uncomfortable that a company is actually selling things to closes thoses gaps 
+This is making enough people uncomfortable that a company is actually selling things to closes thoses gaps.
 
 [http://theprivacycover.com/](http://theprivacycover.com/)
 
@@ -174,3 +174,15 @@ Why should this be only applied to waiters? Why not all service customer facing 
 Just pay people well, and they'll be happier and do a better job.
 
 A tip should be an extraordinary token of appreciation for an extraordinary good job. Like it is in so many countries.
+
+### Roads
+
+Why have your red lights AFTER the actual crossing? This means it has to be super high up in order to be seen.
+
+You put STOP signs at the place you need to stop, not after the crossing, traffic lights should be the same.
+
+Passing on the right is absolutely terrifying.
+
+Biking is a death trap, it's way too easy to just accidentally end up on a highway, turning left on a 2x4 lanes intersection is terrifying.
+
+Cars will run over you when they "turn right on a red light".
