@@ -109,7 +109,7 @@ While having a gap at the bottom of the door could make cleaning easier, there i
 
 This is as much "fixing a problem" than "giving painkillers" to someone with a broken leg.
 
-![](docs/stalls.jpg)
+![](pics/stalls.jpg)
 
 #### Someone else will clean your shit
 
