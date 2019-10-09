@@ -107,6 +107,10 @@ This is making enough people uncomfortable that a company is actually selling th
 
 While having a gap at the bottom of the door could make cleaning easier, there is no reason why I need to be able to slip a laptop through the stupid side gaps. PRIVACY PLEASE.
 
+This is as much "fixing a problem" than "giving painkillers" to someone with a broken leg.
+
+![](docs/stalls.jpg)
+
 #### Someone else will clean your shit
 
 Why so many hotels/offices/restaurants don't have the brush that helps you clean after yourself when you make a mess?
